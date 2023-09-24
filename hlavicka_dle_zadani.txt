@@ -11,3 +11,6 @@ discord: Ivana #3941
 """
 
 import ..
+
+
+Tento program má za úkol...
