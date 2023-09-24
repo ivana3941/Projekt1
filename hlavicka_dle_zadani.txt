@@ -1,0 +1,13 @@
+"""
+
+projekt_1.py: první projekt do Engeto Online Python Akademie
+
+author: Ivana ROHOVÁ
+
+email: bytypr@gmail.com
+
+discord: Ivana #3941
+
+"""
+
+import ..
