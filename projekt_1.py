@@ -1,3 +1,15 @@
+"""
+
+projekt_1.py: první projekt do Engeto Online Python Akademie
+
+author: Ivana ROHOVÁ
+
+email: bytypr@gmail.com
+
+discord: Ivana #3941
+
+"""
+
 import os
 from task_template import TEXTS
 
@@ -29,7 +41,7 @@ def count_of_words():
             list_of_words.remove("")
     print(f"There are {len(list_of_words)} words in the selected text.")
 
-#počet slov zařínající s velkým písmenem
+#počet slov začínající s velkým písmenem
 def count_of_words_start_capital():
     list_of_capitals = []
     for word in list_of_words:
